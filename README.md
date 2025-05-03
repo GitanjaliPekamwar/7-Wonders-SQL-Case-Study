@@ -2,7 +2,11 @@
 
 > *"Exploring the Amazing Wonders of the World — one SQL query at a time!"*  
 > A data-driven adventure by **Gitanjali Pekamwar**
+---
+## 📸 Sneak Peek 
 
+
+![Seven Wonders SQL Case Study](https://github.com/GitanjaliPekamwar/7-Wonders-SQL-Case-Study/blob/main/Screenshot%202025-05-03%20192218.png)
 ---
 
 ## 📌 Overview
@@ -81,12 +85,7 @@ Created with curiosity and code by [Gitanjali Pekamwar](https://www.linkedin.com
 
 ---
 
-## 📸 Sneak Peek (Optional)
-
-_Add screenshots of your query outputs or ER diagram here for a visual highlight._
-
-
-## 🚀 Ready to Explore? Go on!
+### 🚀 Ready to Explore? Go on!
 
 [📄 Seven_Wonders_SQL_Case_Study_by_Gitanjali_Pekamwar.pdf](.[/https://github.com/GitanjaliPekamwar/7-Wonders-SQL-Case-Study/blob/main/Exploring%20the%20Amazing%20wonders%20of%20the%20world%20with%20SQL%20(1).pdf])
 ---
